@@ -1,0 +1,3 @@
+[submodule "KAN_VAE_MNIST"]
+	path = KAN_VAE_MNIST
+	url = https://github.com/vapolonio/KAN_VAE_MNIST.git
